@@ -31,7 +31,7 @@ params:
   categories:
     - name: Main Network
       description: ""
-      closed: false
+      closed: true
       untited: true
     - name: Projects
       untited: true
