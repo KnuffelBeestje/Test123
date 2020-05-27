@@ -17,7 +17,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
-  logo: /logo.png
+  logo: /img/wracked_logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
@@ -36,8 +36,9 @@ params:
     - name: Projects
       untited: true
       closed: false
-  description: We continuously monitor the status of our services and if there are
-    any interruptions, a note will be posted here.
+  description: |-
+    You can view the status of our services on this page.
+    Keep in mind that everything is manually updated when there's an issue.
   enableCustomHTML: false
   useLargeHeaderDesign: false
 theme: cstate
