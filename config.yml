@@ -40,7 +40,7 @@ params:
     You can view the status of our services on this page.
     Keep in mind that everything is manually updated when there's an issue.
   enableCustomHTML: false
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
