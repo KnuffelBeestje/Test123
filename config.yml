@@ -20,6 +20,9 @@ params:
   logo: /img/wracked_logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: Want to report an issue? E-mail us!
+      link: mailto:contact@wracked.nl
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: false
