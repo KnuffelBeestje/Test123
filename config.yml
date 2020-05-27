@@ -9,7 +9,9 @@ params:
   down: "#e60000"
   systems:
     - name: Launcher
-      category: Main
+      category: Main Network
+    - name: Webserver
+      category: Main Network
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
@@ -25,8 +27,8 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
-    - name: Main
-      description: Everything self-hosted is here.
+    - name: Main Network
+      description: ""
       closed: false
       untited: true
   description: We continuously monitor the status of our services and if there are
