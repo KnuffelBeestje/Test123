@@ -7,6 +7,6 @@ informational: false
 resolvedWhen: 2020-05-30T18:21:05.641Z
 affected:
   - ThunderNetwork - MC server
-severity: notice
+severity: down
 ---
 *ThunderNetwork has been discontinued.*
