@@ -12,6 +12,8 @@ params:
       category: Main Network
     - name: Webserver
       category: Main Network
+    - category: Project
+      name: ThunderNetwork - MC server
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
@@ -31,6 +33,7 @@ params:
       description: ""
       closed: false
       untited: true
+    - name: Projects
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
