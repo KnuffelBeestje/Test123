@@ -1,13 +1,15 @@
 ---
-title: New Pipeline Rollout
-date: 2019-10-05 16:24:00
+title: Launcher Offline
+date: 2020-05-27 18:48:00
 resolved: false
 resolvedWhen: 2019-10-05 16:58:00
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: down
 affected:
-  - API
+  - Launcher
 section: issue
 ---
 
-There may be disruptions in the rollout.
+Images and files are unavailable.
+
+# This issue has been resolved.
