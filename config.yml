@@ -22,7 +22,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
-  useLogo: true
+  useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: monthly
@@ -40,7 +40,7 @@ params:
     You can view the status of our services on this page.
     Keep in mind that everything is manually updated when there's an issue.
   enableCustomHTML: false
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
