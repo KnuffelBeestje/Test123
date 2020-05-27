@@ -1,7 +1,7 @@
 ---
 title: Launcher Offline
 date: 2020-05-27 18:30:00
-resolved: false
+resolved: true
 resolvedWhen: 2020-05-27 18:48:00
 # Possible severity levels: down, disrupted, notice
 severity: down
@@ -12,4 +12,3 @@ section: issue
 
 Images and files are unavailable.
 
-# This issue has been resolved.
