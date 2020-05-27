@@ -12,7 +12,7 @@ params:
       category: Main Network
     - name: Webserver
       category: Main Network
-    - category: Project
+    - category: Projects
       name: ThunderNetwork - MC server
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
@@ -31,11 +31,11 @@ params:
   categories:
     - name: Main Network
       description: ""
-      closed: true
+      closed: false
       untited: true
     - name: Projects
       untited: true
-      closed: true
+      closed: false
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
