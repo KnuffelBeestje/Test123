@@ -28,7 +28,7 @@ params:
   useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: monthly
+  incidentHistoryFormat: none
   disableIncidentHistory: false
   ok: "#008000"
   categories:
