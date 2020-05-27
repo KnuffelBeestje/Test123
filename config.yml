@@ -4,7 +4,7 @@ defaultContentLanguage: en
 languageCode: en
 baseURL: https://status.wracked.nl
 params:
-  disableDarkMode: false
+  disableDarkMode: true
   shortDateFormat: 15:04 — Jan 2
   down: "#e60000"
   systems:
@@ -25,7 +25,7 @@ params:
   useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
-  incidentHistoryFormat: yearly
+  incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#008000"
   categories:
