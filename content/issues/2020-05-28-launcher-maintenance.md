@@ -10,3 +10,5 @@ affected:
 severity: down
 ---
 *Maintenance -* We are currently doing some maintenance on some files that require the server to reboot very often.
+
+The maintenance will end **2:30PM UTC+1**
