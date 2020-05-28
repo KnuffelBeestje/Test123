@@ -2,7 +2,7 @@
 section: issue
 title: Launcher Maintenance
 date: 2020-05-28T08:25:32.347Z
-resolved: false
+resolved: true
 informational: true
 resolvedWhen: 2020-05-28T12:30:32.412Z
 affected:
